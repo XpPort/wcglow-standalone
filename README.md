@@ -12,3 +12,5 @@
 /wcglow toggle
 /wcglow status
 ```
+
+![imgur](https://i.imgur.com/p3jJSWT.png)
