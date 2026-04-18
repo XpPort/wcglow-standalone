@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "wcglow",
+    "name": "WCGlow Standalone",
+    "description": "Standalone entity glow outline mod for Minecraft 1.8.9.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Fairwol"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
